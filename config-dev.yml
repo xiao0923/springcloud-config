@@ -1,1 +1,3 @@
-master config-dec.yml
+config:
+  info: "master config-dec.yml"
+
